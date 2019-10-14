@@ -1,0 +1,26 @@
+{
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Monokai",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "breadcrumbs.enabled": true,
+  "editor.wordWrap": "on",
+  "editor.wrappingIndent": "deepIndent",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false,
+  "workbench.tree.indent": 10,
+  "breadcrumbs.symbolPath": "last",
+  "files.trimTrailingWhitespace": true,
+  "workbench.list.openMode": "doubleClick",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.editor.labelFormat": "short",
+  "workbench.settings.openDefaultSettings": true,
+  "prettier.printWidth": 120,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all"
+}
